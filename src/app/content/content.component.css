@@ -1,0 +1,26 @@
+.content {
+    height: 1000px;
+  }
+  .content img{
+    width: 150px;
+    height:200px;
+  }
+  .content h3{
+      color:#1DB954;
+  }
+  .content p{
+    color:#1DB954;
+    padding-top: 10px;
+    font-size:large;
+}
+.content ul{
+    flex: 1;
+}
+.content ul li{
+    margin-top: 25px;
+    list-style: none;
+    display:inline-table;
+    padding-top: 10px;
+    padding-left: 10px;
+    position:relative;
+}
