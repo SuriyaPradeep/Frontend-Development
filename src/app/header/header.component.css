@@ -1,0 +1,27 @@
+.header img{
+    float:left;
+    width:auto;
+    height:100px;
+    padding: 25px;
+    background:black;
+}
+.header a{
+    color: #1DB954;
+}
+.header h1{
+    padding: 25px;
+    color:#1DB954;
+    background-color: black;
+}
+.header ul{
+    text-align:right;
+    flex: 1;
+}
+.header ul li{
+    margin-top: 25px;
+    list-style: none;
+    display: inline-block;
+    padding-top: 10px;
+    padding-left: 10px;
+    position:relative;
+}
