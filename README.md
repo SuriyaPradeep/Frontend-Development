@@ -1,7 +1,6 @@
 # About
 Frontend app development of music streaming app using angular.
 
-![Watch the video](https://github.com/SuriyaPradeep/Frontend-Development/blob/main/Demo.mp4)
 
 
 
